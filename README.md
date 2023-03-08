@@ -13,8 +13,7 @@ I am always striving to learn and grow as a developer, and I believe in the impo
 Thank you for taking the time to visit my page! 
 
 
-<img src="![e8b37aa3bee66e219a10398244734017 (1)](https://user-images.githubusercontent.com/127351847/223860453-1438f7f2-a881-49b8-944b-8caa191cc569.gif)
-" alt=""/>
 
+![e8b37aa3bee66e219a10398244734017 (1)](https://user-images.githubusercontent.com/127351847/223860605-ee85f658-d853-4cfa-9a70-0338e09ac43b.gif)
 
 
