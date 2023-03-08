@@ -15,7 +15,9 @@ I am always striving to learn and grow as a developer, and I believe in the impo
 Thank you for taking the time to visit my page! 
 
 <p alight="left">
-    <a href=
+
+    [Contact me](mailto:benlongrigg0@gmail.com)
+
 
 
 
