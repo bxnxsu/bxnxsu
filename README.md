@@ -1,22 +1,19 @@
 # 💫 bxnxsu
 
-**`Digital Craftsman (Software Developer)`**
+## Digital Craftsman (Software Developer)
 
-I'm a Full time student currently studying EVIT level 3 at college with an inspiring ambition
-to become a Software Developer, I created this github to show YOU what i can do and how i can 
-build my own digital world. I have experience with many different coding languages and have
-experience using many different tools such as: 
+I'm a full-time student currently studying EVIT Level 3 at college with an inspiring ambition to become a Software Developer. I created this GitHub to show YOU what I can do and how I can build my own digital world. I have experience with many different coding languages and have experience using many different tools such as:
 
-VSCODE
-PHOTOSHOP 
-WORD
-POWERPOINT
-EXCEL
-UNREAL ENGINE
-PREMIER PRO
-DAVINCI RESOLVE
-VISUAL STUDIO
+- VSCode
+- Photoshop
+- Word
+- PowerPoint
+- Excel
+- Unreal Engine
+- Premier Pro
+- DaVinci Resolve
+- Visual Studio
 
-I always wish to be the best that i can be and im more than happy to listen and learn and improve.
+I always wish to be the best that I can be, and I'm more than happy to listen, learn, and improve.
 
 
