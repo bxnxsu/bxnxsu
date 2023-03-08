@@ -13,4 +13,9 @@ I am always striving to learn and grow as a developer, and I believe in the impo
 Thank you for taking the time to visit my page! 
 
 
+(![image](https://user-images.githubusercontent.com/127351847/223859187-c7029245-38e3-47d6-9cba-a7f9580f3376.png)
+)
+
+
+
 
