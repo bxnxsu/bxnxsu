@@ -1,19 +1,16 @@
-# 💫 bxnxsu
+# 💫 Bxnxsu
 
-## Digital Craftsman (Software Developer)
+## About Me
 
-I'm a full-time student currently studying EVIT Level 3 at college with an inspiring ambition to become a Software Developer. I created this GitHub to show **YOU** what I can do and how I can build my own digital world. I have experience with many different coding languages and have experience using many different tools such as:
+Hi there, I'm Ben! As a full-time college student studying EVIT Level 3, I have a strong interest in software development and am dedicated to pursuing a career in this field.
 
-- VSCode
-- Photoshop
-- Word
-- PowerPoint
-- Excel
-- Unreal Engine
-- Premier Pro
-- DaVinci Resolve
-- Visual Studio
+I created this GitHub page as a showcase for my programming projects and skills. I have experience with various programming languages and tools, including VSCode, Photoshop, Word, PowerPoint, Excel, Unreal Engine, Premier Pro, DaVinci Resolve, and Visual Studio.
 
-I always wish to be the best that I can be, and I'm more than happy to listen, learn, and improve.
+## My Approach
+
+I am always striving to learn and grow as a developer, and I believe in the importance of collaboration and communication. I am eager to work with others to build exciting and innovative projects, and I am committed to producing high-quality work that meets and exceeds expectations.
+
+Thank you for taking the time to visit my page! 
+
 
 
