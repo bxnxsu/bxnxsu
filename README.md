@@ -1,6 +1,6 @@
 # 💫 Bxnxsu
 
-**`Digital Craftsman (Software Developer)`**
+**`Digital Craftsman (Software Developer/Student)`**
 
 ## About Me
 
