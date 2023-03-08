@@ -2,7 +2,7 @@
 
 ## Digital Craftsman (Software Developer)
 
-I'm a full-time student currently studying EVIT Level 3 at college with an inspiring ambition to become a Software Developer. I created this GitHub to show YOU what I can do and how I can build my own digital world. I have experience with many different coding languages and have experience using many different tools such as:
+I'm a full-time student currently studying EVIT Level 3 at college with an inspiring ambition to become a Software Developer. I created this GitHub to show **YOU** what I can do and how I can build my own digital world. I have experience with many different coding languages and have experience using many different tools such as:
 
 - VSCode
 - Photoshop
