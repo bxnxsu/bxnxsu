@@ -1,5 +1,7 @@
 # 💫 Bxnxsu
 
+**`Digital Craftsman (Software Developer)`**
+
 ## About Me
 
 Hi there, I'm Ben! As a full-time college student studying EVIT Level 3, I have a strong interest in software development and am dedicated to pursuing a career in this field.
@@ -12,7 +14,8 @@ I am always striving to learn and grow as a developer, and I believe in the impo
 
 Thank you for taking the time to visit my page! 
 
-
+<p alight="left">
+    <a href=
 
 
 
