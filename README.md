@@ -14,6 +14,5 @@ Thank you for taking the time to visit my page!
 
 
 
-![e8b37aa3bee66e219a10398244734017 (1)](https://user-images.githubusercontent.com/127351847/223860605-ee85f658-d853-4cfa-9a70-0338e09ac43b.gif)
 
 
