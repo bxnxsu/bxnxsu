@@ -1,16 +1,22 @@
-### Hi there 👋
+# 💫 bxnxsu
 
-<!--
-**bxnxsu/bxnxsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Digital Craftsman (Software Developer)`**
 
-Here are some ideas to get you started:
+I'm a Full time student currently studying EVIT level 3 at college with an inspiring ambition
+to become a Software Developer, I created this github to show YOU what i can do and how i can 
+build my own digital world. I have experience with many different coding languages and have
+experience using many different tools such as: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+VSCODE
+PHOTOSHOP 
+WORD
+POWERPOINT
+EXCEL
+UNREAL ENGINE
+PREMIER PRO
+DAVINCI RESOLVE
+VISUAL STUDIO
+
+I always wish to be the best that i can be and im more than happy to listen and learn and improve.
+
+
